@@ -1,0 +1,20 @@
+{
+  "name": "youtube-music-clone",
+  "version": "1.0.0",
+  "description": "Clone moderno da página inicial do YouTube Music com engenharia reversa de UI, player de áudio procedural e interface escura",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "keywords": [
+    "youtube-music",
+    "clone",
+    "audio-player",
+    "dark-mode",
+    "vanilla-js"
+  ],
+  "author": "",
+  "license": "MIT"
+}
